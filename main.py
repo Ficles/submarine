@@ -1,5 +1,5 @@
 import pygame
-import ui
+from classes import ui
 
 radar = ui.Radar(200, 2.5, 50)
 
